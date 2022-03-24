@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simentis
 - 👀 I’m interested in Angular Technology
-- 🌱 I’m currently learning Angulr with Asp.net Core
+- 🌱 I’m currently learning Angular with Asp.net Core
 
 Projects public in repo in technology ASP.Net core with Angular :
 
